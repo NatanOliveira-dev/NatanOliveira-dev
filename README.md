@@ -1,21 +1,9 @@
-# 👩🏻‍💻 Olá, Eu sou Natan Oliveira
+# 🧑🏻‍💻 Olá, eu sou Natan Oliveira
 **`Information System Student`**
 
 Estudante de Sistemas de Informação apaixonado por tecnologia e com grande interesse em desenvolvimento, automações e qualidade de software. Atualmente estudando Python, C, JavaScript, processos de qualidade e metodologias ágeis (Scrum e Kanban), além de aprofundar conhecimentos em Quality Assurance (QA), automação de testes e processos de qualidade de software.
 
 Buscando evoluir constantemente e construir uma trajetória sólida na área de tecnologia.
-    
-<p align="left">
-  <a href="https://github.com/NatanOliveira-dev?tab=followers">
-    <img 
-      alt="Seguidores" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/NatanOliveira-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-  </a>
-</p>
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
