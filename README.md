@@ -1,11 +1,11 @@
 # 🧑🏻‍💻 Olá, eu sou Natan Oliveira
-**`Information System Student`**
+**`Information Systems Student | Software Development & QA Learner`**
 
-Estudante de Sistemas de Informação apaixonado por tecnologia e com grande interesse em desenvolvimento, automações e qualidade de software. Atualmente estudando Python, C, JavaScript, processos de qualidade e metodologias ágeis (Scrum e Kanban), além de aprofundar conhecimentos em Quality Assurance (QA), automação de testes e processos de qualidade de software.
+Estudante de Sistemas de Informação apaixonado por tecnologia, com interesse em desenvolvimento, automações e qualidade de software. Atualmente estudo Python, C, JavaScript, processos de qualidade, metodologias ágeis como Scrum e Kanban, além de aprofundar meus conhecimentos em Quality Assurance (QA), automação de testes e melhoria de processos de software.
 
-Buscando evoluir constantemente e construir uma trajetória sólida na área de tecnologia.
+Busco evoluir constantemente e construir uma trajetória sólida na área de tecnologia.
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -67,11 +67,13 @@ Buscando evoluir constantemente e construir uma trajetória sólida na área de 
 <br/>
 <br/>
 
-### 📫 Contato e Redes Sociais
+### 📫 Contato Profissional
+
+📧 [natanaeloliveira.work22@outlook.com](mailto:natanaeloliveira.work22@outlook.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-oliveira-36b434325)
 
-## 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NatanOliveira-dev&show_icons=true&theme=tokyonight"/>
 
