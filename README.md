@@ -1,9 +1,13 @@
 # 🧑🏻‍💻 Olá, eu sou Natan Oliveira
 **`Information Systems Student | Software Development & QA Learner`**
 
+<p align="justify">
 Estudante de Sistemas de Informação apaixonado por tecnologia, com interesse em desenvolvimento, automações e qualidade de software. Atualmente estudo Python, C, JavaScript, processos de qualidade, metodologias ágeis como Scrum e Kanban, além de aprofundar meus conhecimentos em Quality Assurance (QA), automação de testes e melhoria de processos de software.
+</p>
 
+<p align="justify">
 Busco evoluir constantemente e construir uma trajetória sólida na área de tecnologia.
+</p>
 
 ### 🛠️ Linguagens e Tecnologias
 
